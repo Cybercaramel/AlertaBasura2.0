@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type_prompt">Choose a planet</string>
+    <string-array name="type_array">
+        <item>Una Casa</item>
+        <item>Un Departamento</item>
+        <item>Una Oficina</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
